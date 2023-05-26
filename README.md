@@ -18,7 +18,7 @@
 
 Aspiring in Java | C# | .NET
 
-## About :
+## About
    Majoring Computer Science at Universidade Tecnológica do Paraná - UTFPR. Passionate at Back-End Development. Also have some experience in Image Processing in Python. Always trying to learning new tecnologies to increase performance. 21 years old.
 
   
@@ -30,7 +30,7 @@ Aspiring in Java | C# | .NET
 - C#
 
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"></code>
 <code><img height="50" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png"></code>
