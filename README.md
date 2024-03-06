@@ -19,7 +19,7 @@
 Aspiring in Java | C# | .NET
 
 ## About
-   Majoring Computer Science at Universidade Tecnológica do Paraná - UTFPR. Passionate at Back-End Development. Also have some experience in Image Processing in Python. Always trying to learning new tecnologies to increase performance. 21 years old.
+   Majoring Computer Science at Universidade Tecnológica do Paraná - UTFPR. Passionate at Back-End Development. Also have some experience in Image Processing in Python. Always trying to learning new tecnologies to increase performance. 22 years old.
 
   
 ## Technologies
